@@ -42,19 +42,19 @@ Guanhao Zhao is a Ph.D. student at the School of Artificial Intelligence and Dat
 
 <div class="cn-block" markdown="1">
 
-**中国科学技术大学** (C9联盟高校；985) 2021 ~ 至今
+**中国科学技术大学** (C9联盟高校；985)&emsp;<small>2021 ~ 至今</small>
 - 学术博士，认知智能全国重点实验室，导师：[陈恩红](http://staff.ustc.edu.cn/~cheneh/)教授、[黄振亚](http://staff.ustc.edu.cn/~huangzhy/)副教授
 
-**西北工业大学** (985) 2017 ~ 2021
+**西北工业大学** (985)&emsp;<small>2017 ~ 2021</small>
 - 工学学士，软件学院，软件工程专业；排名 6/254，CET-6：610
 
 </div>
 <div class="en-block" markdown="1">
 
-**University of Science and Technology of China** (C9 League; Project 985) 2021 ~ Present
+**University of Science and Technology of China** (C9 League; Project 985)&emsp;<small>2021 ~ Present</small>
 - Ph.D. student, State Key Laboratory of Cognitive Intelligence. Supervised by [Prof. Enhong Chen](http://staff.ustc.edu.cn/~cheneh/) and [Assoc. Prof. Zhenya Huang](http://staff.ustc.edu.cn/~huangzhy/)
 
-**Northwestern Polytechnical University** (Project 985) 2017 ~ 2021
+**Northwestern Polytechnical University** (Project 985)&emsp;<small>2017 ~ 2021</small>
 - B.Eng. in Software Engineering. Rank: 6/254; CET-6: 610
 
 </div>
