@@ -13,7 +13,7 @@ title                    : "赵官豪 / Guanhao Zhao"
 title_separator          : "-"
 name                     : &name "赵官豪 (Guanhao Zhao)"
 description              : &description "赵官豪的个人学术主页 / Guanhao Zhao's Academic Homepage"
-url                      : ghzhao.github.io
+url                      : https://ghzhao.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ghzha0/ghzhao.github.io"
 
