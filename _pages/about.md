@@ -176,7 +176,7 @@ Guanhao Zhao is a Ph.D. student at the School of Artificial Intelligence and Dat
 
 - **实验室课达编程项目** \| 前端开发、数据标注 <small>2021.09 ~ 2022.06</small>
   - 实验室自研的 AI+智能教育编程学习平台
-  - 负责前端开发及数据标注工作
+  - 负责学习者能力测评及数据分析工作
 
 </div>
 <div class="en-block" markdown="1">
